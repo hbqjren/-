@@ -1,4 +1,4 @@
-127.0.0.1       localhost
+127.0.0.1  localhost
 ::1             ip6-localhost
 #104.19.37.0/24
 104.19.37.0 dash.cloudflare.com
